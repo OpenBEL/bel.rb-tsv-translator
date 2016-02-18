@@ -1,0 +1,6 @@
+# example.bel
+SET Citation = {"PubMed","Trends in molecular medicine","12928037","","de Nigris F|Lerman A|Ignarro LJ|Williams-Ignarro S|Sica V|Baker AH|Lerman LO|Geng YJ|Napoli C",""}
+
+SET Evidence = "Aging, one of the major predictors for atherosclerotic lesion formation, increases the sensitivity of endothelial cells to apoptosis induced by in vitro and in vivo stimuli [35–37]."
+
+bp(GOBP:aging) increases bp(GOBP:"apoptotic process")
